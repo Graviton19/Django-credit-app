@@ -1,0 +1,8 @@
+django
+djangorestframework
+celery
+redis
+django-celery-results
+django-cron
+django-filter
+environs
